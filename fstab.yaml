@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/adobe-commerce/adobe-demo-store/
+    url: https://content.da.live/slamech/lamechfeb17/
     type: markup
 
 folders:
